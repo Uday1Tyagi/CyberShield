@@ -1,0 +1,2 @@
+2025-09-29 13:51:35 ML_PRED raw=1 prob=0.7154513067859217 model.classes_=[0 1]
+2025-09-29 13:51:35 MSG subject=Fwd: Your Amazon.in order #123-4567890-1234567 has shipped from=Uday Tyagi <tyagi19959604@gmail.com> ml_prob=0.7154513067859217 label=Phishing reasons=['suspicious_keyword', 'contains_link', 'ml_med_conf_plus_rule'] domain=amazon.in

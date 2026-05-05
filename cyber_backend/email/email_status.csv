@@ -1,0 +1,48 @@
+Sender,Subject,Status,Reasons
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Hello <hello959604@gmail.com>,Verify Your Microsoft Account,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Safe,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Hello <hello959604@gmail.com>,Fwd: Verify Your Microsoft Account,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Safe,"suspicious_keyword, contains_link"
+tyagiuday2005@gmail.com,=?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Phishing,"suspicious_keyword, contains_link, ml_medium"
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Phishing,"suspicious_keyword, contains_link"
+Hello <hello959604@gmail.com>,Fwd: Verify Your Microsoft Account,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Safe,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Safe,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Safe,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Safe,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Safe,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your PayPal Account Has Been Limited,Phishing,suspicious_keyword
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link, ml_med_plus_rule"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link, ml_med_conf_plus_rule"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link, ml_med_conf_plus_rule"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link, ml_med+rule"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Safe,trusted_sender
+Uday Tyagi <tyagiuday2005@gmail.com>,=?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=,Safe,trusted_sender
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Hello <hello959604@gmail.com>,Fwd: Weekend plan,Safe,
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Uday Tyagi <tyagi19959604@gmail.com>,Fwd: Your Amazon.in order #123-4567890-1234567 has shipped,Phishing,"suspicious_keyword, contains_link"
+Hello <hello959604@gmail.com>,Fwd: Weekend plan,Safe,
+"""Hedra"" <hello@hedra.com>",Welcome to Hedra,Safe,suspicious_keyword
+"""Hedra"" <hello@marketing.hedra.com>",Feeling stuck? Hedra can help.,Safe,"suspicious_keyword, contains_link, suspicious_domain:sendibt2.com"
+"""Hedra"" <hello@marketing.hedra.com>",=?utf-8?q?Meet_the_new_Hedra_(We=E2=80=99ve_evolved)?=,Safe,"suspicious_keyword, contains_link"
+"""Runway"" <no-reply@comms.runwayml.com>","15% off: Gen-4.5 Image to Video, Nano Banana Pro and more",Safe,"suspicious_keyword, contains_link"
+Hedra <hello@hedra.com>,AI avatars have never felt this real.,Safe,"suspicious_keyword, contains_link, suspicious_domain:sendibm1.com"
+"""Runway"" <no-reply@comms.runwayml.com>",Kling 3.0 and more are now Available in Runway,Safe,"suspicious_keyword, contains_link"
+Google <no-reply@accounts.google.com>,2-Step Verification turned on,Phishing,"suspicious_keyword, contains_link"
+Google <no-reply@accounts.google.com>,Security alert,Phishing,"suspicious_keyword, contains_link"
+Google <no-reply@accounts.google.com>,Security alert,Phishing,"suspicious_keyword, contains_link"

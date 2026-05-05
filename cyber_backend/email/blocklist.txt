@@ -1,0 +1,9 @@
+verify-account-login.com
+abc-bank-security-verify.com
+netflix.com
+netflix-billing-update.com
+ms-login-secure.com
+university-mail-verify.com
+amazon.in
+www.amazon.in
+google.com

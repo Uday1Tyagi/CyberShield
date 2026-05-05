@@ -1,0 +1,517 @@
+{
+    "known_attacks": [
+        {
+            "hash": "bfaad792a79fb6ad02d0bf1f86f7b510ff223479fc05a0a81cf279f64f8a11b0",
+            "prediction": "Phishing",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.9086168118505291,
+            "timestamp": 1758819065
+        },
+        {
+            "hash": "08fe7a9f67d4503b5b34697283dce64a3639f4e7ef2848c461aade4fde4a9646",
+            "prediction": "Phishing",
+            "domain": "ms-login-secure.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.8443422427782212,
+            "timestamp": 1758819071
+        },
+        {
+            "hash": "3838190ba66a42f9c36eb7d9ab799393a398265b72532aaf241956972b157508",
+            "prediction": "Phishing",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.7530019159426953,
+            "timestamp": 1758819078
+        },
+        {
+            "hash": "e2c6921ae2ba27a7b6bd568265e77f97242da801cbaba51be7e0850b5c45f175",
+            "prediction": "Phishing",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "ml_medium"
+            ],
+            "probability": 0.5988809421225573,
+            "timestamp": 1758820223
+        },
+        {
+            "hash": "78df60bb0672490940eb56b8192585afde1e08a937c2fc49d6c2b5b0fd8af34c",
+            "prediction": "Phishing",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 1.0,
+            "timestamp": 1758820935
+        },
+        {
+            "hash": "2c2d737b028f91fb06e96aaf6d7190d60e24e46dd06b8949a70a7abd58b9c9c1",
+            "prediction": "Phishing",
+            "domain": "ms-login-secure.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 1.0,
+            "timestamp": 1758821021
+        },
+        {
+            "hash": "d3e32ebc6a20879a2537b2838c44623bb9ee6264e9c7e5953e4ce6d114ce7d40",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 1.0,
+            "timestamp": 1758821022
+        },
+        {
+            "hash": "97f68dbc61f3bc875dee01c065c3c1cf030b3097b4a26917f58f57720ba4253d",
+            "prediction": "Phishing",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 1.0,
+            "timestamp": 1758821022
+        },
+        {
+            "hash": "ffa2706a190b433edf5eaf8d84e33a1f1ca23a06e7394e5964da7d03f413b48c",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5582245350964915,
+            "timestamp": 1758822364
+        },
+        {
+            "hash": "500a02e901667534696e74e98d9a07aee41dc18437feebd826917b212d8db6d9",
+            "prediction": "Phishing",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.5045571565906967,
+            "timestamp": 1758822367
+        },
+        {
+            "hash": "a8e1fa82736e8767ddc80b4060058fd5279375fabc3d7871d16a245ba8f9f21e",
+            "prediction": "Phishing",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.6838975206173777,
+            "timestamp": 1758825024
+        },
+        {
+            "hash": "99461474d6eed0c8fb54f730a983c7e287c6d5dd27a153f5bbf017917e9e3f83",
+            "prediction": "Phishing",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.6836962975540645,
+            "timestamp": 1758825884
+        },
+        {
+            "hash": "2836ef232b78fff73ea961dfb1f9489bd401780d3fb6ddfdb914c716e58f8b1d",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.6826553097292638,
+            "timestamp": 1759132448
+        },
+        {
+            "hash": "a02dde2f666e758637caaf585e6e6de1e704c9469478cd0c9d1c2d80e1c6fb62",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.680365811915295,
+            "timestamp": 1759132628
+        },
+        {
+            "hash": "b2e38cfd31bd5a33ebe0f2c6f1ebff336fd5d791c2cff5393ec4357cbee42d2a",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5070465209134287,
+            "timestamp": 1759132697
+        },
+        {
+            "hash": "16ebe5d3f4bb641206ff8c53244e5d28780b0d649b5b32c42a2f5ae0de35f676",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5248823292446068,
+            "timestamp": 1759133179
+        },
+        {
+            "hash": "68c20a3e008676883d5b7cd1e94f51320224f13c65968350b57db81d4920ea81",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5483403240893291,
+            "timestamp": 1759133594
+        },
+        {
+            "hash": "294c32d89426f6cf323689912b5c6768e1ff1d117aa9f42f47f6375291bbc81b",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "ml_med_plus_rule"
+            ],
+            "probability": 0.7088913247767771,
+            "timestamp": 1759133809
+        },
+        {
+            "hash": "bd1f5d72a29b017f5a2e8e34841d2cd055f0d7c396d14f05655921e1b6fd298e",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "ml_med_conf_plus_rule"
+            ],
+            "probability": 0.7125224553159136,
+            "timestamp": 1759134007
+        },
+        {
+            "hash": "8c863f13740641ced30036bcdf7fccaaf9ae752772c3b38fc7c0fc4e43f9a5bf",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "ml_med_conf_plus_rule"
+            ],
+            "probability": 0.7154513067859217,
+            "timestamp": 1759134095
+        },
+        {
+            "hash": "8a0b534b2ba4aa50b23b510f860efcb6c7b3f7b88f5909bf8dc9dd55ec870c4e",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "ml_med+rule"
+            ],
+            "probability": 0.7178595027171649,
+            "timestamp": 1759134235
+        },
+        {
+            "hash": "a3b857718f2d45bc1109a8954756950cfab8df5f5d8b9b307d95c00933e8eb66",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5795241406553348,
+            "timestamp": 1759134715
+        },
+        {
+            "hash": "8625a4aa301cd7451eb781ee0464b3b9bb33e655a02708b3a57ba75e5a6ed523",
+            "prediction": "Phishing",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.7983525394534532,
+            "timestamp": 1759134921
+        },
+        {
+            "hash": "3d2bed2337e0c33db6d89dac55b00d0972a5a59a7ffef806f7438ec985c774c3",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5823060689794303,
+            "timestamp": 1759134967
+        },
+        {
+            "email": "Subject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 2:05\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 2:01\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:57\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:53\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:51\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:49\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:46\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:42\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:38\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:35\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:27\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:26\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:23\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Mon, 29 Sept, 2025, 1:21\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Fri, 26 Sept, 2025, 11:28\u202fam\r\nSubject: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\nHi Uday,\r\n\r\nGood news \u2014 your order #123-4567890-1234567 has been shipped and is\r\nexpected to arrive on Sep 29, 2025.\r\n\r\nTrack your package: https://www.amazon.in/gp/track/1234567\r\n\r\nIf you didn\u2019t place this order, please contact our Customer Service using\r\nthe Help section on Amazon.in \u2014 we will not ask for your password by email.\r\n\r\nThanks,\r\nAmazon.in\r\n",
+            "prediction": "Phishing",
+            "domain": "www.amazon.in"
+        },
+        {
+            "hash": "92c067caff4124ec7cb146489255695330490474142528a0f810768b672ee03a",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5868797240425847,
+            "timestamp": 1759136194
+        },
+        {
+            "hash": "942c58e1e31298944ba5c551d08d892676967da03b007c523fe222e9853b9710",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5904800942262491,
+            "timestamp": 1759189618
+        },
+        {
+            "hash": "ef31d873dd002b227e69dd35cf2b895c7d460349c3505c8162610c4f8763411a",
+            "prediction": "Phishing",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.5938848922565126,
+            "timestamp": 1759189804
+        },
+        {
+            "hash": "fc041d62f785ec4cea23f137a748a8974121bd5c24f50def92eb2cf4682736ad",
+            "prediction": "Phishing",
+            "domain": "google.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.7300491716554033,
+            "timestamp": 1772472508
+        },
+        {
+            "hash": "c3e21cf8d205de62e76cc9a8115df455b17a55720094efba93fa9dd88e561204",
+            "prediction": "Phishing",
+            "domain": "google.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.842552897772937,
+            "timestamp": 1772472508
+        },
+        {
+            "hash": "3b7ea469ddce260f097837a756bf1c4b2eb56fae21a65505636c60a5086ed454",
+            "prediction": "Phishing",
+            "domain": "google.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.8721550947220924,
+            "timestamp": 1772472509
+        }
+    ],
+    "safe_emails": [
+        {
+            "hash": "fc4fe7a69d0e18036596e4e46ad2bb5756ac8fc89826aec2bb053edcfd0e121b",
+            "prediction": "Safe",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758819064
+        },
+        {
+            "hash": "5501560c57ea362f8a1534bd85c2fd4d7afeb3f14bdbbba97c30391252bb1ccc",
+            "prediction": "Safe",
+            "domain": "amazon.in",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.3888225693170844,
+            "timestamp": 1758819084
+        },
+        {
+            "hash": "7882cdb98cc9744d0fb9d4aa653b4cdba0f04730064129a6894451086aac87a5",
+            "prediction": "Safe",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758822364
+        },
+        {
+            "hash": "27ec333739ec0f587aaba2cb94a3b3e931776c1724e500fef1aadfc534d8725d",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758823187
+        },
+        {
+            "hash": "e703fe2aafe4cc53a92e6262b9f2ec466a4588d33a034ce73ccad9df0b49650a",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758823238
+        },
+        {
+            "hash": "c963edd42e0d9af65ad254c47208cb2758d424d13fb36a912c2811f8939ff5a2",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758824696
+        },
+        {
+            "hash": "afa9f4ae70e0811734478f59aaea122f129082ba9e03214ef982cac850d5c39b",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.0,
+            "timestamp": 1758824762
+        },
+        {
+            "hash": "62f6f48e7b76a88d40fdfbc55aa99c853497d55e4d3e377e2ba9f348cc929089",
+            "prediction": "Safe",
+            "domain": "amazon.in",
+            "reasons": [
+                "trusted_sender"
+            ],
+            "probability": null,
+            "timestamp": 1759134468
+        },
+        {
+            "hash": "87155affb5d2fd2b09c04ebb43bb5b0f9b366e98d182d04e5f791f1863cf5d7a",
+            "prediction": "Safe",
+            "domain": "university-mail-verify.com",
+            "reasons": [
+                "trusted_sender"
+            ],
+            "probability": null,
+            "timestamp": 1759134560
+        },
+        {
+            "hash": "67c11fef1f1c4e6bf1e56c364e1351cecf6b67cd2c0b9ea5c940bdf5a5d758d4",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [],
+            "probability": 0.0784702138416597,
+            "timestamp": 1759189379
+        },
+        {
+            "hash": "f1569e30e49251d45e2693d24cb8b1b9fa067b01b29a515344f02ad7a4b7978a",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [],
+            "probability": 0.1474297299002222,
+            "timestamp": 1759189843
+        },
+        {
+            "hash": "712f9b061f6bc6a86f099a47b5bbbd71e1a85d837eb159c38b1bd037a619b812",
+            "prediction": "Safe",
+            "domain": "",
+            "reasons": [
+                "suspicious_keyword"
+            ],
+            "probability": 0.21169763610569814,
+            "timestamp": 1772472502
+        },
+        {
+            "hash": "e8b6175f15c75436283604373606c0613b1a950fce0dd69ac35115f433cbb76a",
+            "prediction": "Safe",
+            "domain": "sendibt2.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "suspicious_domain:sendibt2.com"
+            ],
+            "probability": 0.27715430297704796,
+            "timestamp": 1772472505
+        },
+        {
+            "hash": "5130eb841983ca5d9672fc98b56f5e9aa958e93862c97b380a8443667a8a6e6f",
+            "prediction": "Safe",
+            "domain": "hedra.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.2979942565691951,
+            "timestamp": 1772472506
+        },
+        {
+            "hash": "54870d0d57a83ed4c6053c0aa331a4aa0dd95d728a325f0cd2274007bb921a39",
+            "prediction": "Safe",
+            "domain": "runwayml.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.4962816823513268,
+            "timestamp": 1772472506
+        },
+        {
+            "hash": "85e2eda5976e38d7d0f69206c1250d5a541b9156da96e0706779cef1a233c505",
+            "prediction": "Safe",
+            "domain": "hedra.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link",
+                "suspicious_domain:sendibm1.com"
+            ],
+            "probability": 0.4046723717457056,
+            "timestamp": 1772472507
+        },
+        {
+            "hash": "5045fda5cec171adff180eb33030184f2db4b37110d05b3653f4fe122d6fc322",
+            "prediction": "Safe",
+            "domain": "runwayml.com",
+            "reasons": [
+                "suspicious_keyword",
+                "contains_link"
+            ],
+            "probability": 0.46693112114409396,
+            "timestamp": 1772472507
+        }
+    ]
+}

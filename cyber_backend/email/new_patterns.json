@@ -1,0 +1,44 @@
+[
+    {
+        "text": "Subject: =?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:18\u202fpm\r\nSubject: Fwd: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:09\u202fpm\r\nSubject: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\nDear Student,\r\n\r\nYour mailbox is almost full. If you don\u2019t verify within 24 hours, you will\r\nlose access to your email.\r\n\r\n\ud83d\udc49 http://university-mail-verify.com\r\n\r\nRegards,\r\nIT Helpdesk\r\n",
+        "label": 1
+    },
+    {
+        "hash": "7882cdb98cc9744d0fb9d4aa653b4cdba0f04730064129a6894451086aac87a5",
+        "text": "Subject: =?UTF-8?Q?Fwd=3A_Urgent=21_Mailbox_Full_=E2=80=93_Verify_Now?=\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:51\u202fpm\r\nSubject: Fwd: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:39\u202fpm\r\nSubject: Fwd: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:18\u202fpm\r\nSubject: Fwd: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagiuday2005@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:09\u202fpm\r\nSubject: Urgent! Mailbox Full \u2013 Verify Now\r\nTo: hackytyagi2004@gmail.com <hackytyagi2004@gmail.com>\r\n\r\n\r\nDear Student,\r\n\r\nYour mailbox is almost full. If you don\u2019t verify within 24 hours, you will\r\nlose access to your email.\r\n\r\n\ud83d\udc49 http://university-mail-verify.com\r\n\r\nRegards,\r\nIT Helpdesk\r\n",
+        "predicted_label": "Safe",
+        "reasons": [
+            "suspicious_keyword",
+            "contains_link"
+        ],
+        "timestamp": 1758822364
+    },
+    {
+        "hash": "ffa2706a190b433edf5eaf8d84e33a1f1ca23a06e7394e5964da7d03f413b48c",
+        "text": "Subject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\nFrom: Uday Tyagi <tyagi959604@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:52\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:19\u202fpm\r\nSubject: Fwd: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 6:20\u202fpm\r\nSubject: Your Amazon.in order #123-4567890-1234567 has shipped\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\nHi Uday,\r\n\r\nGood news \u2014 your order #123-4567890-1234567 has been shipped and is\r\nexpected to arrive on Sep 29, 2025.\r\n\r\nTrack your package: https://www.amazon.in/gp/track/1234567\r\n\r\nIf you didn\u2019t place this order, please contact our Customer Service using\r\nthe Help section on Amazon.in \u2014 we will not ask for your password by email.\r\n\r\nThanks,\r\nAmazon.in\r\n",
+        "predicted_label": "Phishing",
+        "reasons": [
+            "suspicious_keyword",
+            "contains_link"
+        ],
+        "timestamp": 1758822364
+    },
+    {
+        "hash": "500a02e901667534696e74e98d9a07aee41dc18437feebd826917b212d8db6d9",
+        "text": "Subject: Fwd: Your PayPal Account Has Been Limited\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:53\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:18\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:08\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 9:03\u202fPM\r\nSubject: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\nHello,\r\n\r\nYour account has been limited due to suspicious activity. Please login\r\nimmediately to restore full access:\r\n\r\n\r\n\r\nThank you,\r\nPayPal Security Team\r\n",
+        "predicted_label": "Phishing",
+        "reasons": [
+            "suspicious_keyword"
+        ],
+        "timestamp": 1758822367
+    },
+    {
+        "hash": "afa9f4ae70e0811734478f59aaea122f129082ba9e03214ef982cac850d5c39b",
+        "text": "Subject: Fwd: Your PayPal Account Has Been Limited\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\n\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:54\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:51\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:46\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:30\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:28\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 11:15\u202fPM\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:53\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:18\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, 25 Sept, 2025, 10:08\u202fpm\r\nSubject: Fwd: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\n\r\n\r\n---------- Forwarded message ---------\r\nFrom: Uday Tyagi <tyagi19959604@gmail.com>\r\nDate: Thu, Sep 25, 2025 at 9:03\u202fPM\r\nSubject: Your PayPal Account Has Been Limited\r\nTo: <hackytyagi2004@gmail.com>\r\n\r\n\r\nHello,\r\n\r\nYour account has been limited due to suspicious activity. Please login\r\nimmediately to restore full access:\r\n\r\n\r\n\r\nThank you,\r\nPayPal Security Team\r\n",
+        "predicted_label": "Safe",
+        "reasons": [
+            "suspicious_keyword"
+        ],
+        "timestamp": 1758824762
+    }
+]

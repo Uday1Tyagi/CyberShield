@@ -1,0 +1,86 @@
+{
+  "3d408a9ea1058ac8399e02345424c4b7": {
+    "url": "https://www.paperflite.com/blogs/what-is-my-linkedin-url",
+    "domain": "www.paperflite.com",
+    "score": 0,
+    "verdict": "safe",
+    "signals": [],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T01:39:53.242216",
+    "ts": 1777666193.2509062
+  },
+  "f2824a75ae29179341c659c5c4040c16": {
+    "url": "https://www.in.gov/fssa/thehub/files/Finding_Your_LinkedIn_Public_Profile_URL.pdf",
+    "domain": "www.in.gov",
+    "score": 10,
+    "verdict": "safe",
+    "signals": [
+      {
+        "text": "Unusually long URL (81 chars)",
+        "severity": "warn",
+        "points": 10
+      }
+    ],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T02:10:46.139243",
+    "ts": 1777668046.1588774
+  },
+  "804003bba7be7f2c39245b8b0782d607": {
+    "url": "https://leetcode.com/",
+    "domain": "leetcode.com",
+    "score": 0,
+    "verdict": "safe",
+    "signals": [],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T02:11:02.940834",
+    "ts": 1777668062.9589918
+  },
+  "f606ed6b1efd01fd1c5c86ae45c72940": {
+    "url": "https://leetcode.com/problemset/database/",
+    "domain": "leetcode.com",
+    "score": 0,
+    "verdict": "safe",
+    "signals": [],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T02:11:04.196269",
+    "ts": 1777668064.1965878
+  },
+  "5d1dde998a8173d64e554b8dee8cd713": {
+    "url": "https://leetcode.com/contest/",
+    "domain": "leetcode.com",
+    "score": 0,
+    "verdict": "safe",
+    "signals": [],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T02:12:44.452714",
+    "ts": 1777668164.4537284
+  },
+  "12f016ad0a54a43601dbec296ee7e28d": {
+    "url": "https://tenmilesquare.com/resources/software-development/what-i-learned-from-leetcode/",
+    "domain": "tenmilesquare.com",
+    "score": 10,
+    "verdict": "safe",
+    "signals": [
+      {
+        "text": "Unusually long URL (86 chars)",
+        "severity": "warn",
+        "points": 10
+      }
+    ],
+    "domain_age": null,
+    "vt": null,
+    "cached": false,
+    "scanned_at": "2026-05-02T02:12:50.378994",
+    "ts": 1777668170.3805265
+  }
+}

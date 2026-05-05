@@ -1,0 +1,89 @@
+/* URL Shield Pro — content styles */
+
+/* ── PAGE TOAST ────────────────────────────────────────────────────────────── */
+#__ush_toast {
+  position: fixed;
+  bottom: 20px; right: 20px;
+  z-index: 2147483647;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  transform: translateY(100px);
+  opacity: 0;
+  pointer-events: none;
+  transition: transform 0.4s cubic-bezier(.16,1,.3,1), opacity 0.3s ease;
+}
+#__ush_toast.ush-show {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: all;
+}
+#__ush_t_inner {
+  display: flex; align-items: center; gap: 10px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(8, 8, 16, 0.93);
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  min-width: 210px; max-width: 300px;
+}
+#__ush_t_icon {
+  width: 30px; height: 30px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 14px; font-weight: 700; flex-shrink: 0;
+}
+#__ush_t_body { flex: 1; min-width: 0; }
+#__ush_t_title { font-weight: 700; font-size: 13px; color: #fff; }
+#__ush_t_sub   { font-size: 11px; color: rgba(255,255,255,0.45); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 200px; }
+#__ush_t_close { background: none; border: none; color: rgba(255,255,255,0.3); cursor: pointer; font-size: 12px; padding: 2px 4px; }
+#__ush_t_close:hover { color: rgba(255,255,255,0.8); }
+
+/* verdict colors */
+#__ush_toast.ush-safe       #__ush_t_icon { background: rgba(34,197,94,0.2);  color: #4ade80; border: 1px solid rgba(34,197,94,0.4); }
+#__ush_toast.ush-safe       #__ush_t_title { color: #4ade80; }
+#__ush_toast.ush-suspicious #__ush_t_icon { background: rgba(245,158,11,0.2); color: #fbbf24; border: 1px solid rgba(245,158,11,0.4); }
+#__ush_toast.ush-suspicious #__ush_t_title { color: #fbbf24; }
+#__ush_toast.ush-dangerous  #__ush_t_icon { background: rgba(239,68,68,0.2);  color: #f87171; border: 1px solid rgba(239,68,68,0.4); }
+#__ush_toast.ush-dangerous  #__ush_t_title { color: #f87171; }
+#__ush_toast.ush-scanning   #__ush_t_icon { background: rgba(99,102,241,0.2); color: #818cf8; border: 1px solid rgba(99,102,241,0.4); animation: __ush_spin 0.8s linear infinite; }
+
+/* ── HOVER POPUP ────────────────────────────────────────────────────────────── */
+#__ush_hover {
+  position: fixed;
+  z-index: 2147483647;
+  pointer-events: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  display: flex; align-items: center; gap: 8px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  background: rgba(8, 8, 16, 0.93);
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  min-width: 150px; max-width: 270px;
+  opacity: 0; transform: scale(0.95);
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+#__ush_hover.ush-show { opacity: 1; transform: scale(1); }
+
+#__ush_h_icon {
+  width: 22px; height: 22px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 700; flex-shrink: 0;
+}
+#__ush_hover.ush-safe       #__ush_h_icon { background: rgba(34,197,94,0.2);  color: #4ade80; border: 1px solid rgba(34,197,94,0.4); }
+#__ush_hover.ush-suspicious #__ush_h_icon { background: rgba(245,158,11,0.2); color: #fbbf24; border: 1px solid rgba(245,158,11,0.4); }
+#__ush_hover.ush-dangerous  #__ush_h_icon { background: rgba(239,68,68,0.2);  color: #f87171; border: 1px solid rgba(239,68,68,0.4); }
+#__ush_hover.ush-scanning   #__ush_h_icon { background: rgba(99,102,241,0.2); color: #818cf8; border: 1px solid rgba(99,102,241,0.4); animation: __ush_spin 0.8s linear infinite; }
+
+#__ush_h_body { flex: 1; min-width: 0; }
+#__ush_h_verdict { font-weight: 700; font-size: 12px; }
+#__ush_hover.ush-safe       #__ush_h_verdict { color: #4ade80; }
+#__ush_hover.ush-suspicious #__ush_h_verdict { color: #fbbf24; }
+#__ush_hover.ush-dangerous  #__ush_h_verdict { color: #f87171; }
+#__ush_hover.ush-scanning   #__ush_h_verdict { color: #818cf8; }
+#__ush_h_url   { font-size: 10px; color: rgba(255,255,255,0.4); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 180px; }
+#__ush_h_score { font-size: 10px; color: rgba(255,255,255,0.3); flex-shrink: 0; font-weight: 600; }
+
+@keyframes __ush_spin { to { transform: rotate(360deg); } }
