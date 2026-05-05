@@ -1,17 +1,45 @@
-# cybersecurity_app
+# 🛡️ CyberShield – AI Cybersecurity System
 
-A new Flutter project.
+CyberShield is an AI-powered cybersecurity system that detects malware, phishing emails, unsafe URLs, and secures USB devices.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+* 🔍 Malware Detection (ML-based)
+* 📧 Email Phishing Detection
+* 🌐 URL Safety Checker
+* 🔌 USB Security Monitoring
+* 🤖 AI Chatbot Assistant
 
-A few resources to get you started if this is your first Flutter project:
+## 🏗️ Project Structure
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* `cyber_backend/` → Backend APIs & ML models
+* `cyber_app_new/` → Flutter mobile app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ How to Run
+
+### Backend
+
+```bash
+cd cyber_backend
+pip install -r requirements.txt
+python app.py
+```
+
+### Frontend (Flutter)
+
+```bash
+cd cyber_app_new
+flutter pub get
+flutter run
+```
+
+## 🛡️ Tech Stack
+
+* Python (FastAPI / Flask)
+* Machine Learning
+* Flutter
+* MySQL
+
+## 👨‍💻 Author
+
+Uday Tyagi
