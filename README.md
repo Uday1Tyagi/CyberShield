@@ -40,6 +40,3 @@ flutter run
 * Flutter
 * MySQL
 
-## 👨‍💻 Author
-
-Uday Tyagi
